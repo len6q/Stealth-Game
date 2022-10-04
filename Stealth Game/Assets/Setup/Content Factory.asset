@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6de9a4384628aee4cad421d27dc5cb06, type: 3}
+  m_Name: Content Factory
+  m_EditorClassIdentifier: 
+  _emptyPrefab: {fileID: 201563062463284690, guid: 5f708b4b50862e1498c8070d1b9953dd, type: 3}
+  _destinationPrefab: {fileID: 7808009615146437174, guid: 05fbcb991ebf9d545a3881169caac31a, type: 3}
+  _obstaclePrefab: {fileID: -2799242743347780592, guid: 7039292e612096f45aa3870ad743496d, type: 3}
+  _targetSpawnPointPrefab: {fileID: -5130725745369077274, guid: a017b7d0db721514bb4c4e004519cea1, type: 3}
+  _enemySpawnPointPrefab: {fileID: 2985809557482186363, guid: 04a537cd954a40440865e1ff7149be95, type: 3}
